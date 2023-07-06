@@ -1,18 +1,16 @@
 # Hi there 👋
-//<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/2048px-HTML5_logo_and_wordmark.svg.png" alt="HTML" width="200">
 
+# Luis Andre Salazar Pinea
 
-# Nombre completo
-
-Breve descripción sobre ti y tus habilidades como ingeniero en sistemas de computación.
+Soy un estudiante de ingeniería en sistemas computacionales altamente motivado, con habilidades en programación y análisis de datos, con el objetivo de obtener experiencia en el campo de la tecnología. Busco un puesto en el que pueda aplicar y desarrollar mis habilidades en programación y análisis de datos para trabajar en proyectos emocionantes y desafiantes, y así contribuir al crecimiento de la empresa.
 
 ## Experiencia
 
-### [Empresa 1](https://www.example.com)
+### [Consultoria LuBiz](lubiz.com.mx)
 
-- **Cargo:** Ingeniero de Software
-- **Fechas:** [Fecha de inicio] - [Fecha de finalización]
-- **Descripción:** Breve descripción de tus responsabilidades y logros en esta empresa.
+- **Cargo:** Ingeniero de Implementación y Configuración
+- **Fechas:** [2 de Junio de 2023] - [En curso]
+- **Descripción:** Soy el ingeniero encargado de la instalacion de los dispositivos y su implementación. 
 
 ### [Empresa 2](https://www.example.com)
 
@@ -22,7 +20,7 @@ Breve descripción sobre ti y tus habilidades como ingeniero en sistemas de comp
 
 ## Educación
 
-### [Universidad](https://www.example.com)
+### [Tecnologico de Estudios Superiores De Huixqulucan](https://teshuixquilucan.edomex.gob.mx/)
 
 - **Título:** Ingeniero en Sistemas de Computación
 - **Fecha de graduación:** [Fecha de graduación]
