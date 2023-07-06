@@ -44,5 +44,5 @@ Enumera tus habilidades técnicas clave, como lenguajes de programación, herram
 
 ## Contribución y Contacto
 
-Si estás interesado en colaborar o tienes alguna pregunta, no dudes en contactarme a través de [correo electrónico](mailto:tu@email.com).
+Si estás interesado en colaborar o tienes alguna pregunta, no dudes en contactarme a través de [correo electrónico](mailto:luisandre17@outlook.es).
 
