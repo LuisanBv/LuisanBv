@@ -35,13 +35,13 @@ Enumera tus habilidades técnicas clave, como lenguajes de programación, herram
 - Bases de datos: [PL/SQL , SQL, Transact-SQL (T-SQL)]
 - Otros: [Habilidades adicionales]
 
-## Proyectos Destacados
-
-Describe brevemente algunos proyectos relevantes en los que hayas trabajado. Incluye una breve descripción y los enlaces a los repositorios correspondientes en GitHub u otras plataformas.
 
 ## Certificaciones
+- 1: [Cisco Networking Academy® Cybersecurity Essentials]
+`` `html
+<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="1ff08551-271b-4bb8-bdfb-676a80c7b171" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+`` `
 
-Enumera las certificaciones relevantes que hayas obtenido, incluyendo el nombre de la certificación y la entidad emisora.
 
 ## Contribución y Contacto
 
