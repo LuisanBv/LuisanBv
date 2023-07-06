@@ -37,10 +37,9 @@ Enumera tus habilidades técnicas clave, como lenguajes de programación, herram
 
 
 ## Certificaciones
-- 1: [Cisco Networking Academy® Cybersecurity Essentials]
-`` `html
-<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="1ff08551-271b-4bb8-bdfb-676a80c7b171" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
-`` `
+- 1: Cisco Networking Academy® Cybersecurity Essentials
+<img src="https://images.credly.com/size/340x340/images/054913b2-e271-49a2-a1a4-9bf1c1f9a404/CyberEssentials.png" alt="HTML" width="200">
+
 
 
 ## Contribución y Contacto
