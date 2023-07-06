@@ -10,7 +10,7 @@ Soy un estudiante de ingeniería en sistemas computacionales altamente motivado,
 
 - **Cargo:** Ingeniero de Implementación y Configuración
 - **Fechas:** [2 de Junio de 2023] - [En curso]
-- **Descripción:** Soy el ingeniero encargado de la instalacion de los dispositivos y su implementación. 
+- **Descripción:** Encargado de la instalacion de los dispositivos y su implementación, ademas de sus respectivas conexiones de energia y datos. 
 
 ### [Empresa 2](https://www.example.com)
 
@@ -23,16 +23,16 @@ Soy un estudiante de ingeniería en sistemas computacionales altamente motivado,
 ### [Tecnologico de Estudios Superiores De Huixqulucan](https://teshuixquilucan.edomex.gob.mx/)
 
 - **Título:** Ingeniero en Sistemas de Computación
-- **Fecha de graduación:** [Fecha de graduación]
-- **Descripción:** Menciona los aspectos destacados de tu educación y proyectos relevantes.
+- **Fecha de graduación:** [29 de Diciembre de 2023]
+- **Descripción:** Ingeniero en sistemas computacionales con especialidad en Big Data
 
 ## Habilidades Técnicas
 
 Enumera tus habilidades técnicas clave, como lenguajes de programación, herramientas, frameworks, etc.
 
-- Lenguajes de programación: [Lenguajes]
+- Lenguajes de programación: [HTML]
 - Herramientas y tecnologías: [Herramientas]
-- Bases de datos: [Bases de datos]
+- Bases de datos: [PL/SQL , SQL, Transact-SQL (T-SQL)]
 - Otros: [Habilidades adicionales]
 
 ## Proyectos Destacados
