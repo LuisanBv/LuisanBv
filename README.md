@@ -6,7 +6,7 @@ Soy un estudiante de ingeniería en sistemas computacionales altamente motivado,
 
 ## Experiencia
 
-### [Consultoria LuBiz](lubiz.com.mx)
+### [Consultoria LuBiz](https://lubiz.com.mx/)
 
 - **Cargo:** Ingeniero de Implementación y Configuración
 - **Fechas:** [2 de Junio de 2023] - [En curso]
