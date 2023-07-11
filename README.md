@@ -22,8 +22,6 @@ Soy un estudiante de ingeniería en sistemas computacionales altamente motivado,
 
 ## Habilidades Técnicas
 
-Enumera tus habilidades técnicas clave, como lenguajes de programación, herramientas, frameworks, etc.
-
 - Lenguajes de programación:
     - Java
     - Html
