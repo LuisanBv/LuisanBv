@@ -25,8 +25,8 @@ Soy un estudiante de ingeniería en sistemas computacionales altamente motivado,
 Enumera tus habilidades técnicas clave, como lenguajes de programación, herramientas, frameworks, etc.
 
 - Lenguajes de programación:
-**Manejo de Sistemas Operativos.**
-Windows
+***Manejo de Sistemas Operativos.***
+****Windows****
 Windows server
 Ubuntu Desktop
 Ubuntu server
