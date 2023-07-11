@@ -25,23 +25,23 @@ Soy un estudiante de ingeniería en sistemas computacionales altamente motivado,
 Enumera tus habilidades técnicas clave, como lenguajes de programación, herramientas, frameworks, etc.
 
 - Lenguajes de programación:
-
+· Java 
+· Html
+· Php
+· Python
   
 -Manejo de Sistemas Operativos:
-    Windows
-    Windows server
-    Ubuntu Desktop
-    Ubuntu server
--Manejo de Bases de Datos.
+· Windows
+· Windows server
+· Ubuntu Desktop
+· Ubuntu server
+
+-Manejo de Bases de Datos:
 · PL/SQL     
 · SQL     
 · Transact-SQL (T-SQL)     
-·MongoDB Query Language  
--Manejo de Lenguajes de programación.
-Java 
-Html
-Php
-Python
+· MongoDB Query Language  
+
 
 
 - Herramientas y tecnologías: [Herramientas]
