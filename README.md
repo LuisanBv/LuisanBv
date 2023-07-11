@@ -47,7 +47,7 @@ Soy un estudiante de ingeniería en sistemas computacionales altamente motivado,
     - MongoDB Query Language
 
 - Herramientas y tecnologías: 
-    - Paquteria de Microsoft (Word, Excel, Power Point, Publisher)
+    - Paquteria de office (Word, Excel, Power Point, Publisher)
     - Canva
     - Anaconda
     - Spyder
